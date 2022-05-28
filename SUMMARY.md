@@ -17,12 +17,11 @@
 * [Token economy](toekn-economy/token-economy.md)
 * [Smart contract](https://polygonscan.com/address/0x7CD31153fE93b2F1bf0a7B39a29AD5dA50EBE99B#events)
 
-## Fundamentals
+## MORE
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Roadmap](more/roadmap.md)
+* [Cross-platform](more/cross-platform.md)
+* [FAQ's](more/faq.md)
 
 ## Use Cases
 
