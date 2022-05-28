@@ -17,21 +17,16 @@
 * [Token economy](toekn-economy/token-economy.md)
 * [Smart contract](https://polygonscan.com/address/0x7CD31153fE93b2F1bf0a7B39a29AD5dA50EBE99B#events)
 
-## MORE
+## ABOUT
 
-* [Roadmap](more/roadmap.md)
-* [Cross-platform](more/cross-platform.md)
-* [FAQ's](more/faq.md)
+* [Roadmap](about/roadmap.md)
+* [Cross-platform](about/cross-platform.md)
+* [FAQ's](about/faq.md)
 
-## Use Cases
+## SOCIALS
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Website](https://lands.town)
+* [Discord](https://lands.town)
+* [Twitter](http://twitter.com/lands\_town)
+* [Telegram](https://t.me/lands\_town)
+* [Instagram](https://www.instagram.com/lands\_town/)

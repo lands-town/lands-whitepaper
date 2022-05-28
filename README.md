@@ -50,16 +50,16 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="more/roadmap.md" %}
-[roadmap.md](more/roadmap.md)
+{% content-ref url="about/roadmap.md" %}
+[roadmap.md](about/roadmap.md)
 {% endcontent-ref %}
 
-{% content-ref url="more/cross-platform.md" %}
-[cross-platform.md](more/cross-platform.md)
+{% content-ref url="about/cross-platform.md" %}
+[cross-platform.md](about/cross-platform.md)
 {% endcontent-ref %}
 
-{% content-ref url="more/faq.md" %}
-[faq.md](more/faq.md)
+{% content-ref url="about/faq.md" %}
+[faq.md](about/faq.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
