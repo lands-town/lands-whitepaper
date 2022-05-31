@@ -10,7 +10,7 @@
 * [Crafting system](the-metaverse/crafting-system.md)
 * [Revenue models](the-metaverse/revenue-models.md)
 * [Decentralized exchanges](the-metaverse/decentralized-exchanges.md)
-* [Interest-free loan](the-metaverse/interest-free-loan.md)
+* [Lending system](the-metaverse/interest-free-loan.md)
 
 ## TOEKN ECONOMY
 
