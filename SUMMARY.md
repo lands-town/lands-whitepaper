@@ -5,7 +5,7 @@
 ## THE METAVERSE
 
 * [Avatar](the-metaverse/avatar.md)
-* [Smart watch](the-metaverse/smart-watch.md)
+* [Smartwatch](the-metaverse/smart-watch.md)
 * [Assets](the-metaverse/assets.md)
 * [Crafting system](the-metaverse/crafting-system.md)
 * [Revenue models](the-metaverse/revenue-models.md)
