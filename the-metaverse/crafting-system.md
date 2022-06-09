@@ -2,7 +2,7 @@
 
 You can craft the tools you need to live in The Landscape Metaverse or sell them to earn money.
 
-To craft a tool, you need to get the raw materials from the store, these materials include metals ironm, wood, stone , oil and etc ,....
+To craft a tool, you need to get the raw materials from the store, these materials include metals ironm, wood, stone , oil and etc.
 
 For example, if you want to craft a car, it is recommended to buy iron and oil from the raw materials store.You can use your smartwatch to order quickly. however, The Landscape team suggests that you go to the store for your purchases, as you may find new friends and become more familiar with the streets, but if you're in a hurry, a smartwatch is a good solution for your orders and purchases.
 
