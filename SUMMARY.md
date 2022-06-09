@@ -7,7 +7,7 @@
 * [Avatar](the-metaverse/avatar.md)
 * [Smartwatch](the-metaverse/smart-watch.md)
 * [Assets](the-metaverse/assets.md)
-* [Crafting system](the-metaverse/crafting-system.md)
+* [Handicraft system](the-metaverse/handicraft-system.md)
 * [Revenue models](the-metaverse/revenue-models.md)
 * [Decentralized exchanges](the-metaverse/decentralized-exchanges.md)
 * [Lending system](the-metaverse/interest-free-loan.md)
