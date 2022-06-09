@@ -12,10 +12,12 @@
 * [Decentralized exchanges](the-metaverse/decentralized-exchanges.md)
 * [Lending system](the-metaverse/interest-free-loan.md)
 
-## TOEKN ECONOMY
+## TOEKN
 
-* [Token economy](toekn-economy/token-economy.md)
-* [Smart contract](https://polygonscan.com/address/0x7CD31153fE93b2F1bf0a7B39a29AD5dA50EBE99B#events)
+* [Token economy](toekn/token-economy.md)
+* [ICO](toekn/ico.md)
+* [BSC - Smart contract](https://polygonscan.com/token/0xDa2bD668e09Bf730eb61160AA5Def181035241b8#balances)
+* [Polygan - Smart contract](https://polygonscan.com/token/0xDa2bD668e09Bf730eb61160AA5Def181035241b8#balances)
 
 ## ABOUT
 
