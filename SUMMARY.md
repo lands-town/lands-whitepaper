@@ -14,7 +14,7 @@
 
 ## TOEKN
 
-* [Token economy](toekn/token-economy.md)
+* [Token Economy](toekn/token-economy.md)
 * [ICO](toekn/ico.md)
 * [BSC - Smart contract](https://polygonscan.com/token/0xDa2bD668e09Bf730eb61160AA5Def181035241b8#balances)
 * [Polygan - Smart contract](https://polygonscan.com/token/0xDa2bD668e09Bf730eb61160AA5Def181035241b8#balances)
