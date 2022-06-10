@@ -13,7 +13,11 @@ Everything except your avatar is considered an asset and you can buy, sell, upgr
 * Zoo
 * And...
 
-One of the easiest ways to earn money in The Landscape Metaverse is by owning land. You can earn money on your land without any restrictions.
+![](../.gitbook/assets/bar-dark.png)
+
+<mark style="color:blue;">**One of the easiest ways to earn money in The Landscape Metaverse is by owning land. You can earn money on your land without any restrictions.**</mark>
+
+### Types of assets
 
 Assets do not just include land or virtual real estate. As mentioned, everything except your avatar (and the original smartwatch that belongs to the Avatar) is an asset and can be bought, sold, upgraded and crafted. A few of them are also mentioned here.
 
