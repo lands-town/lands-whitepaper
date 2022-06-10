@@ -1,4 +1,4 @@
-# Token Economy
+# Token economy
 
 ### **Information** <a href="#token-information" id="token-information"></a>
 
@@ -11,7 +11,7 @@
 | **Total supply** `Binance Smart Chain` | 1,000,000,000                                                          |
 | **Total supply**  `Polygon Mainnet`    | 400,000,000                                                            |
 
-### Token Distribution
+## Token Distribution
 
 | Hodlers                              | Weight    |
 | ------------------------------------ | --------- |
