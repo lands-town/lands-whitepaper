@@ -1,4 +1,4 @@
-# Managers
+# Managers and Advisor
 
 ### AmirAli - CEO & Founder
 
