@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![](.gitbook/assets/city-dark.png)
+![](.gitbook/assets/poster.png)
 
 The Landscape project is building a cross-platform Metaverse in the Polygan blockchain. The goal of The Landscape project is to imagine yourself in a modern, unrestricted and decentralized world&#x20;
 
