@@ -22,7 +22,7 @@
 ## ABOUT
 
 * [Cross-platform](about/cross-platform.md)
-* [Managers and Advisor](about/managers-advisor.md)
+* [Managers and Advisor](about/roadmap.md)
 * [FAQ's](about/faq.md)
 
 ## SOCIALS
