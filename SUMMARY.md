@@ -21,8 +21,8 @@
 
 ## ABOUT
 
-* [Roadmap](about/roadmap.md)
 * [Cross-platform](about/cross-platform.md)
+* [Managers](about/managers.md)
 * [FAQ's](about/faq.md)
 
 ## SOCIALS
