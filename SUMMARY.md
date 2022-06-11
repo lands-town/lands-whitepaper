@@ -14,8 +14,8 @@
 
 ## TOKEN
 
-* [Token Economy](token/token-economy.md)
-* [ICO](token/ico.md)
+* [Token Economy](toekn/token-economy.md)
+* [ICO](toekn/ico.md)
 * [BSC - Smart contract](https://polygonscan.com/token/0xDa2bD668e09Bf730eb61160AA5Def181035241b8#balances)
 * [Polygan - Smart contract](https://polygonscan.com/token/0xDa2bD668e09Bf730eb61160AA5Def181035241b8#balances)
 
@@ -28,7 +28,7 @@
 ## SOCIALS
 
 * [Website](https://lands.town)
-* [Discord](https://lands.town)
+* [Discord](https://discord.gg/62wdSC9peN)
 * [Twitter](http://twitter.com/lands\_town)
 * [Telegram](https://t.me/lands\_town)
 * [Instagram](https://www.instagram.com/lands\_town/)
