@@ -1,6 +1,6 @@
 # Assets
 
-Everything except your avatar is considered an asset and you can buy, sell, upgrade or even craft it. If the NFT token of an asset is registered to your avatar's wallet, it means you are the owner of that asset. One of the most popular assets is land (virtual property). Almost anything you can do in the real world with real estate can be done in The Landscape Metaverse. Here are a few things that you can build on virtual property. Note that these are only some of the things you can build and are only mentioned to familiarize you with the concept of virtual land.
+Everything except your avatar is considered an asset and you can buy, sell, upgrade or even craft it. If the NFT token of an asset is registered to your avatar's wallet, it means you are the owner of that asset. One of the most popular assets is land(virtual property). Almost anything you can do in the real world with real estate can be done in The Landscape Metaverse. Here are a few things that you can build on virtual property. Note that these are only some of the things you can build and are only mentioned to familiarize you with the concept of virtual land.
 
 * Private house
 * Office, company or start-up
@@ -21,7 +21,7 @@ Everything except your avatar is considered an asset and you can buy, sell, upgr
 
 ### Types of assets
 
-Assets do not just include land or virtual real estate. As mentioned, everything except your avatar (and the original smartwatch that belongs to the Avatar) is an asset and can be bought, sold, upgraded and crafted. A few of them are also mentioned here.
+Assets do not just include land or virtual real estate. As mentioned, everything except your avatar(and the original smartwatch that belongs to the Avatar) is an asset and can be bought, sold, upgraded and crafted. A few of them are also mentioned here.
 
 * Smartwatches with more advanced features and higher performance.
 * Car

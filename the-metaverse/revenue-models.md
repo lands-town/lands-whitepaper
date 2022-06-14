@@ -16,7 +16,7 @@ After a while, some tools may wear out and their performance may not be the same
 
 ### Advertising
 
-One of the most lucrative ways to earn money in The Landscape Metaverse is advertising. By providing banners and billboards in exchange for $ LANDS tokens or tools, you can introduce other people's businesses . In this way, you can even introduce and advertise the tools that you have made in the handicraft system, which will make those tools more visible and as a result, your handicrafts will be sold easier and for more profit.
+One of the most lucrative ways to earn money in The Landscape Metaverse is advertising. By providing banners and billboards in exchange for $LANDS tokens or tools, you can introduce other people's businesses . In this way, you can even introduce and advertise the tools that you have made in the handicraft system, which will make those tools more visible and as a result, your handicrafts will be sold easier and for more profit.
 
 {% hint style="info" %}
 <mark style="color:blue;">There are several ways to earn money, but to increase this income, it is recommended to have a plot of land in The Landscape Metaverse.</mark>
