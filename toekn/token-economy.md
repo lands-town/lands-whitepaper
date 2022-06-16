@@ -13,12 +13,12 @@
 
 ### Token Distribution
 
-| Hodlers                              | Weight   |
-| ------------------------------------ | -------- |
-| ICO, Public & Private Sale           | **30%**  |
-| Staking Rewards                      | **15%**  |
-| Exchange Liquidity                   | **15%**  |
-| Product and Marketing                | **15%**  |
-| Team and Founder                     | **10%**  |
-| Advisors                             | **10%**  |
-| Fund for support of similar projects | **5%**   |
+| Hodlers                              | Weight  |
+| ------------------------------------ | ------- |
+| ICO, Public & Private Sale           | **30%** |
+| Staking Rewards                      | **15%** |
+| Exchange Liquidity                   | **15%** |
+| Product and Marketing                | **15%** |
+| Team and Founder                     | **15%** |
+| Advisors                             | **5%**  |
+| Fund for support of similar projects | **5%**  |
