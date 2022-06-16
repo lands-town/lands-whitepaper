@@ -13,15 +13,12 @@
 
 ### Token Distribution
 
-| Hodlers                              | Weight    |
-| ------------------------------------ | --------- |
-| Pre Sale                             | **5.5%**  |
-| Public Sale                          | **34.5%** |
-| Team and Founder                     | **16.5%** |
-| Advisers                             | **3.5%**  |
-| Staking system                       | **15%**   |
-| Burned                               | **10%**   |
-| Product and Marketing                | **6.5%**  |
-| Fund for support of similar projects | **8.5%**  |
-
-![](../.gitbook/assets/lands-token-distribution.png)
+| Hodlers                              | Weight   |
+| ------------------------------------ | -------- |
+| ICO, Public & Private Sale           | **30%**  |
+| Staking Rewards                      | **15%**  |
+| Exchange Liquidity                   | **15%**  |
+| Product and Marketing                | **15%**  |
+| Team and Founder                     | **10%**  |
+| Advisors                             | **10%**  |
+| Fund for support of similar projects | **5%**   |
