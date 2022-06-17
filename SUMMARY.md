@@ -14,7 +14,7 @@
 
 ## TOKEN
 
-* [Token Economy](toekn/token-economy.md)
+* [Tokenomics](token/tokenomics.md)
 * [ICO](toekn/ico.md)
 
 ## ABOUT
