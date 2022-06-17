@@ -16,13 +16,11 @@
 
 * [Token Economy](toekn/token-economy.md)
 * [ICO](toekn/ico.md)
-* [BSC - Smart contract](https://polygonscan.com/token/0xDa2bD668e09Bf730eb61160AA5Def181035241b8#balances)
-* [Polygan - Smart contract](https://polygonscan.com/token/0xDa2bD668e09Bf730eb61160AA5Def181035241b8#balances)
 
 ## ABOUT
 
 * [Cross-platform](about/cross-platform.md)
-* [Founder](about/founder.md)
+* [Founder](about/roadmap.md)
 * [FAQ's](about/faq.md)
 
 ## SOCIALS
