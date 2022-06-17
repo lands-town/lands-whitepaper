@@ -12,7 +12,7 @@ DeFi(Decentralized finance), also known as decentralized finance, is a financial
 
 **‌‌Better understanding:** Decentralized exchanges
 
-Decentralized Exchanges (DEx) are one of the essential functions of DeFi, with the maximum amount of capital locked compared to other DeFi protocols. DExs allow users to exchange or swap tokens with other assets, without a centralized intermediary or custodian. Traditional exchanges (centralized exchanges) offer similar options, but the investments offered are subject to that exchange's will and costs. The extra cost on each transaction is another negative aspect of CExs, which DExs address.
+Decentralized Exchanges (DEX) are one of the essential functions of DeFi, with the maximum amount of capital locked compared to other DeFi protocols. DEXs allow users to exchange or swap tokens with other assets, without a centralized intermediary or custodian. Traditional exchanges (centralized exchanges) offer similar options, but the investments offered are subject to that exchange's will and costs. The extra cost on each transaction is another negative aspect of CEXs, which DEXs address.
 
 ### What is GameFi?
 
