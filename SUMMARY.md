@@ -15,7 +15,6 @@
 ## TOKEN
 
 * [Tokenomics](token/tokenomics.md)
-* [ICO](toekn/ico.md)
 
 ## ABOUT
 
