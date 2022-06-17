@@ -6,7 +6,7 @@ NFT (Non-Fungible Token), which has the characteristics of indivisible, irreplac
 
 With its collection attributes and easy trading, NFT can be used in games to make virtual items have a longer lifespan, higher appreciation space, stronger playability, and wider circulation.
 
-### What is DEFi?
+### What is DeFi?
 
 DeFi(Decentralized finance), also known as decentralized finance, is a financial application built on the blockchain.
 

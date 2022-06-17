@@ -23,7 +23,7 @@ In this ICO, not only you'll buy tokens at a lower price (less than the real val
 
 Soft cap is the minimum capital required to start a project. In the ICO of The Landscape Project the soft cap is worth 8 million Landscape tokens, and if the tokens purchased by the participants reach this total, the project will start to work.
 
-> Before the soft cap, there are a few targets or steps so that if we do not reach the required capital in the first ICO, targets are used for marketing and introduction of more projects to receive more capital (thus you cannot sell your tokens until the next ICO or token pricing ).
+> Before the soft cap, there are a few targets or steps so that if we do not reach the required capital in the first ICO, targets are used for marketing and introduction of more projects to receive more capital(thus you cannot sell your tokens until the next ICO or token pricing).
 
 #### -Hard cap - 24,000,000 $LANDS
 
