@@ -20,7 +20,7 @@
 ## ABOUT
 
 * [Cross-platform](about/cross-platform.md)
-* [Founder](about/roadmap.md)
+* [Our CEO](about/ceo.md)
 * [FAQ's](about/faq.md)
 
 ## SOCIALS
