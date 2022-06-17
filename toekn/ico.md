@@ -29,5 +29,17 @@ Soft cap is the minimum capital required to start a project. In the ICO of The L
 
 Hard cap is the maximum capital required to start a project. Note this amount may vary.
 
+### Start project...
+
+The capital raised in the ICO is spent on the matters listed in the table below.
+
+| ‍              | Value   |
+| -------------- | ------- |
+| Projects       | **75%** |
+| Liquidity pool | **13%** |
+| Marketing      | **12%** |
+
+****
+
 
 
