@@ -17,10 +17,11 @@ The LANDS token is a major currency and instrument token with the ERC-20 standar
 
 | Hodlers                                     | Weight  |
 | ------------------------------------------- | ------- |
-| ICO, Public & Private Sale                  | **30%** |
-| Staking Rewards                             | **15%** |
-| Exchange Liquidity                          | **15%** |
+| Pre, Public & Private Sale                  | **30%** |
 | Product and Marketing                       | **15%** |
 | Team and Founder                            | **15%** |
+| Staking Rewards                             | **10%** |
+| Exchange Liquidity                          | **10%** |
 | Advisors                                    | **5%**  |
+| Airdrop                                     | **5%**  |
 | Fund for support of similar projects `Web3` | **5%**  |
