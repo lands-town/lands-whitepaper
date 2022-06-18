@@ -8,7 +8,7 @@ The LANDS token is a major currency and instrument token with the ERC-20 standar
 | ------------- | ---------------------------------------------------------------------- |
 | Name          | The Landscape                                                          |
 | Symbol        | <img src="../.gitbook/assets/lands.png" alt="" data-size="line"> LANDS |
-| Blockchain    | Ethereum Mainnet                                                       |
+| Blockchain    | Binance Smart Chain `BSC`                                              |
 | Standard      | ERC-20                                                                 |
 | Decimal       | 18                                                                     |
 | Total supply  | 1,000,000,000                                                          |
