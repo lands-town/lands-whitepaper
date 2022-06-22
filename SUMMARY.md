@@ -15,6 +15,7 @@
 ## TOKEN
 
 * [Tokenomics](token/tokenomics.md)
+* [BscScan](https://bscscan.com/token/0x1D78b0e4D2e982793F236c1fAAb406C313dC8234)
 
 ## ABOUT
 
