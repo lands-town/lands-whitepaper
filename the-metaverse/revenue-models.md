@@ -22,4 +22,3 @@ One of the most lucrative ways to earn money in The Landscape Metaverse is adver
 <mark style="color:blue;">There are several ways to earn money, but to increase this income, it is recommended to have a plot of land in The Landscape Metaverse.</mark>
 {% endhint %}
 
-<mark style="color:blue;">****</mark>
